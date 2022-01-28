@@ -1,1 +1,1 @@
-
+This repositories contain Python file is used to clean data. SQL is ueded to build query to help client for identifying high-quality hospitals that perform high volumes of inpatient orthopedic procedures. . They will also need to consider the location of the hospital and its relative size/ bargaining power in the market. They would prefer to see data on all hospitals in the TN state, with enough data points for them to conduct further analysis
